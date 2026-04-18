@@ -1,12 +1,22 @@
+<h1 align="center">dabin9</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=24&duration=2800&pause=1100&color=2563EB&center=true&vCenter=true&width=760&lines=React%EC%99%80%20Next.js%EB%A5%BC%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%EA%B0%9C%EB%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4;%EA%B9%94%EB%81%94%ED%95%9C%20UI%EC%99%80%20%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8%20%EC%9B%B9%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98%ED%95%98%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="typing intro" />
+  <strong>Frontend Developer</strong>
+</p>
+
+<p align="center">
+  <code>React</code> · <code>Next.js</code> · <code>PHP</code> · <code>Tailwind CSS</code>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=24&duration=2800&pause=1100&color=111111&center=true&vCenter=true&width=760&lines=React%EC%99%80%20Next.js%EB%A5%BC%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%EA%B0%9C%EB%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4;%EA%B9%94%EB%81%94%ED%95%9C%20UI%EC%99%80%20%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8%20%EC%9B%B9%20%EA%B2%BD%ED%97%98%EC%9D%84%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98%ED%95%98%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="typing intro" />
 </p>
 
 <p align="center">
   <a href="https://github.com/dabin9">
     <img src="https://img.shields.io/badge/GitHub-dabin9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dabin9&style=for-the-badge&color=2563eb" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dabin9&style=for-the-badge&color=111111" alt="profile views" />
 </p>
 
 ## 소개
