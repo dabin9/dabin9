@@ -8,4 +8,6 @@ programming language : TypeScript, JavasScript
 
 Framework & Library : React.js, Next.js
 
+Working position : FrontEnd Developer& Researcher
+
 Email : devjenny19@gmail.com
