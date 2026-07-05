@@ -1,13 +1,61 @@
-<h1 align="center">Hi, I'm dabin Park</h1>
+<h1 align="center">Hi, I'm Dabin Park</h1>
 
 <p align="center">
-  <strong>Frontend Developer</strong>
+  <strong>Frontend Developer focused on UI implementation, React, and maintainable web interfaces.</strong>
 </p>
 
-programming language : TypeScript, JavasScript
+<br />
 
-Framework & Library : React.js, Next.js
+## About Me
 
-Working position : FrontEnd Developer& Researcher
+I'm a frontend developer with experience in building responsive websites, CMS-based pages, and React applications.
+I focus on creating user interfaces that are clean, reusable, and easy to maintain.
 
-Email : devjenny19@gmail.com
+My work is based on practical UI development experience, including layout implementation, component structuring, interaction development, and frontend performance improvement.
+
+<br />
+
+## Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3 / SCSS
+* JavaScript
+* TypeScript
+* React
+* Next.js
+
+### Styling & UI
+
+* Tailwind CSS
+* styled-components
+* CSS Modules
+* Responsive Web
+* UI Component Structure
+
+### Interaction
+
+* GSAP
+* Swiper
+* Three.js
+* Intersection Observer API
+
+### Tools
+
+* Git / GitHub
+* Figma
+* Vercel
+* VS Code
+
+<br />
+
+## Portfolio
+
+🔗 Portfolio: https://dabin-portfolio-six.vercel.app/
+
+<br />
+
+## Contact
+
+📧 Email: [devjenny19@gmail.com](mailto:devjenny19@gmail.com)
